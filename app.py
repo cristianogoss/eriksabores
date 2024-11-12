@@ -4,7 +4,7 @@ from groq import Groq
 import streamlit as st
 
 #Configurar a chave de API do Groq
-os.environ["GROQ_API_KEY"] = "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"
+os.environ["GROQ_API_KEY"] = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 # Inicializar o cliente do ChromaDB
 chroma_client = chromadb.Client()
